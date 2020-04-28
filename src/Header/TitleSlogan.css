@@ -1,0 +1,10 @@
+.title-slogan {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-slogan-text p {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}

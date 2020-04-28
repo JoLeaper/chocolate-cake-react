@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import Header from './Header/Header.js'
 import Body from './Body/Body.js'
 import Footer from './Footer/Footer.js'
-import './index.css'
+import './App.css'
+
 
 
 

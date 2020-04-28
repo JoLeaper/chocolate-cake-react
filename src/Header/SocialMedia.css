@@ -1,0 +1,16 @@
+img {
+    padding: 1px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.social-media {
+    margin-right: 5px;
+}
+.share-buttons {
+    position: absolute;
+    margin-left: 5px;
+}
