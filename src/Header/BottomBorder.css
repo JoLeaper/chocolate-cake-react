@@ -1,0 +1,7 @@
+.bottomborder {
+    display:block;
+    border:0px;
+    height:10px;
+    background-image:url('../lab-assets/hr-img.png');
+}
+
