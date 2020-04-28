@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-hr { 
+.small-logo { 
     background: url('../lab-assets/small-logo.png') no-repeat top center;
     background-size: contain;
     display: block;
@@ -17,8 +17,8 @@ hr {
     border: 0;
     position: relative;
 }
-hr:before,
-hr:after {
+.small-logo:before,
+.small-logo:after {
     content: '';
     display: block;
     position: absolute;
@@ -26,12 +26,12 @@ hr:after {
     height: 2px;
     top: 15px;
 }
-hr:before {
+.small-logo:before {
     left: 0;
     right: 50%;
     margin-right: 20px;
 }
-hr:after {
+.small-logo:after {
     right: 0;
     left: 50%;
     margin-left: 20px;
