@@ -1,4 +1,8 @@
 import React, { Component } from 'react'
+import AuthorInfo from './AuthorInfo.js'
+import IngredientList from './IngredientList.js'
+
+// import BottomBorder from '../Header/BottomBorder.js'
 
 export default class Body extends Component {
     render() {
@@ -9,10 +13,10 @@ export default class Body extends Component {
                 <ArticlePrintButton />
                 <ArticlePicture />
                 <ArticleText />
-                <IngredientList />
-                <BottomBorder />
+                 */}
+                 <IngredientList />
+                 {/* <BottomBorder /> */}
                 <AuthorInfo />
-                <ShareButton /> */}
             </div>
         )
     }
