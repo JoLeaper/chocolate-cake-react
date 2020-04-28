@@ -1,0 +1,8 @@
+.ingredients-list {
+    width: 899px;
+    height: 305px;
+    background-color: teal;
+
+    background-image: url('../lab-assets/list-bg.png');
+    background-size: cover;
+}

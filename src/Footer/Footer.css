@@ -9,46 +9,6 @@
     text-align: center;
 }
 
-.author-info{
-    color: #515859;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-
-}
-/*thanks to w3*/
-#share-button {
-    background-color: #BC7058;
-    border: none;
-    color: white;
-    font-family:'Open Sans Condensed', sans-serif;
-    text-align: center;
-    font-size: 16px;
-    padding: 10px 20px;
-
-}
-
-#ingredients-list {
-    width: 899px;
-    height: 305px;
-    background-color: teal;
-
-    background-image: url('../lab-assets/list-bg.png');
-    background-size: cover;
-}
-
-/* hr:after { 
-    background: url('../lab-assets/small-logo.png') no-repeat top center;
-    content: "";
-    display: block;
-    height: 50px; 
-    position: relative;
-    top: -9px;
-    border: 0;
-    color: #d7d7d7;
-} */
-
 hr { 
     background: url('../lab-assets/small-logo.png') no-repeat top center;
     background-size: contain;
